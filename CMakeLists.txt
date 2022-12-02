@@ -12,3 +12,4 @@ configure_file(${PROJECT_SOURCE_DIR}/src/ProjectConfig.hpp.in ${PROJECT_SOURCE_D
 include_directories()
 
 add_executable(day1 src/day1.cpp)
+add_executable(day2 src/day2.cpp)
